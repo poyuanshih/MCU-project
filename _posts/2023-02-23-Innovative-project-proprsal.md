@@ -61,7 +61,7 @@ This homework is to specify a Future Home application and describe the key featu
 
 ### 系統方塊圖
 ![](https://github.com/rkuo2000/MCU-course/blob/main/images/FutureHome_flying_robot.png?raw=true)
-
+![](https://raw.githubusercontent.com/poyuanshih/MCU-project/269a943b3beac8c91f6b0cabae370f43221bc84d/images/dewalt___table_saw_dw745_1632752762_18883169_progressive.jpg)
 ---
 ## 花房照護機器人
 ### 應用功能說明
