@@ -36,24 +36,24 @@ This homework is to specify a Future Home application and describe the key featu
 
 ---
 
-## 料理機器人
+## 自動尋路車
 ### 成果展示
 
 ### 應用功能說明
-1. 操作廚具：咖啡機＋果汁機＋烤麵包機＋微波爐+烤箱+氣炸鍋
-2. 存取冰箱：辨識食物, 存放食材，或取出食材, 送至廚具
+1. 自動駕駛
+2. 觀察周遭環境
 
 ### 設計考量與相關技術
 **系統設計考量：**<br>
-1. 操作方式:垂直升降式手臂 or 懸吊式手臂
-2. 移動方式:兩輪 or 滑軌懸吊
+1. 操作方式:藍芽控制
+2. 移動方式:三輪 or 滑軌懸吊
 3. 供電方式:鋰電池
 4. 聯網方式:WiFi或BT to 手機
 
 **所需相關技術：**
-1. 滑軌式機器手臂 ＆ 軟式夾具
-2. 食物辨識分類：Jetson-Nano + IMX219
-3. 電子鼻：氣味感測與辨識 MQ2
+1. 高精度馬達 ＆ 觀察攝像頭
+2. 環境辨識分類：yolov7
+3. 超音波感測
 
 ### 系統方塊圖
 ![](https://github.com/rkuo2000/MCU-course/blob/main/images/FutureHome_kitchen_robot.png?raw=true)
