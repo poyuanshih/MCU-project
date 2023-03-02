@@ -55,6 +55,9 @@ This homework is to specify a Future Home application and describe the key featu
 2. 環境辨識分類：yolov7
 3. 超音波感測
 
+### 示意圖
+![](https://github.com/Ian1121023/MCU-project/blob/main/images/auto%20car.png?raw=true)
+
 ### 系統方塊圖
 ![](https://github.com/rkuo2000/MCU-course/blob/main/images/FutureHome_kitchen_robot.png?raw=true)
 
