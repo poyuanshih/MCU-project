@@ -48,7 +48,7 @@ This homework is to specify a Future Home application and describe the key featu
 ![](https://github.com/Ian1121023/MCU-project/blob/main/images/auto%20car.png?raw=true)
 
 ### 系統方塊圖
-![](https://github.com/rkuo2000/MCU-course/blob/main/images/FutureHome_kitchen_robot.png?raw=true)
+
 
 ---
 ## Market Analysis (市場分析)
