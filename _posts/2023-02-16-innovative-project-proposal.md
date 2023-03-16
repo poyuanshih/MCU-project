@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Future Home Applications
+title: innovative-project-proposal
 author: [Yian Chang]
 category: [Lecture]
 tags: [jekyll, ai]
