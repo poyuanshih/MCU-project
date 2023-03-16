@@ -52,7 +52,7 @@ This homework is to specify a Future Home application and describe the key featu
 
 ---
 ## Market Analysis (市場分析)
-![](https://blog.hubspot.com/hs-fs/hubfs/tam-sam-som.png?width=1200&name=tam-sam-som.png)
+
 
 ---
 ### TAM of Future Home Products
