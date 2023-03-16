@@ -41,7 +41,7 @@ This homework is to specify a Future Home application and describe the key featu
 
 **所需相關技術：**
 1. 高精度馬達 ＆ 觀察攝像頭
-2. 環境辨識分類：yolov7
+2. 環境辨識分類：k210
 3. 超音波感測
 
 ### 示意圖
