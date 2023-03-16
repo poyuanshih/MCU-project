@@ -11,17 +11,6 @@ This homework is to specify a Future Home application and describe the key featu
 ---
 ## Futre Home Applications
 
-### Nextflix movie: Big Bug
-<iframe width="993" height="559" src="https://www.youtube.com/embed/FWUkh23vBhs" title="BIGBUG Trailer (2022)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-**Service Robots:**<br>
-
-![](https://github.com/rkuo2000/MCU-course/blob/main/images/Future_Home_robots.png?raw=true)
-
----
-**Home Spaces:**<br>
-
-![](https://github.com/rkuo2000/MCU-course/blob/main/images/Future_Home_spaces.png?raw=true)
 
 ---
 ### Homework Report
