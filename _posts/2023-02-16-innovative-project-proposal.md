@@ -25,12 +25,13 @@ This homework is to specify a Future Home application and describe the key featu
 
 ---
 
-## 自動尋路車
+## 自動尋人車
 ### 成果展示
 
 ### 應用功能說明
 1. 自動駕駛
 2. 觀察周遭環境
+3. 自動尋找人物
 
 ### 設計考量與相關技術
 **系統設計考量：**<br>
