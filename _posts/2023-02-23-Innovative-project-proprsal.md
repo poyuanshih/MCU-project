@@ -1,5 +1,5 @@
 ---
-## Innovative-Project-Proprsal
+# Innovative-Project-Proprsal
 ###### 23 Feb 2023 Poyuan Shih
 
 This homework is to specify a Future Home application and describe the key features, list all Design Considerations and the required technologies, then draw the System Block Diagram.
