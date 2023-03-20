@@ -1,13 +1,12 @@
 ---
 layout: post
-title: 智能健康管理機器人
+title: Innovative-Project-Proprsal
 author: Poyuan Shih
 category: [Lecture]
 tags: [jekyll, ai]
 ---
 
 ## Innovative-Project-Proprsal
-###### 23 Feb 2023 Poyuan Shih
 
 This homework is to specify a Future Home application and describe the key features, list all Design Considerations and the required technologies, then draw the System Block Diagram.
 
