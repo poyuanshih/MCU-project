@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Innovative-Project-Proprsal
-author: Poyuan Shih
+author: [Poyuan Shih]
 category: [Lecture]
 tags: [jekyll, ai]
 ---
