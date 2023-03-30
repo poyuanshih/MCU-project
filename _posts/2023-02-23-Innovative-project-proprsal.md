@@ -40,5 +40,5 @@ This homework is to specify a Future Home application and describe the key featu
 6. 安全和隱私保護設計
 
 ### 系統方塊圖
-![]([https://raw.githubusercontent.com/poyuanshih/MCU-project/main/images/智能健康管理機器人.drawio.png])
+![](https://raw.githubusercontent.com/poyuanshih/MCU-project/main/images/智能健康管理機器人.drawio.png)
 ---
