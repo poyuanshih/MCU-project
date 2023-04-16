@@ -35,15 +35,15 @@ This project is to implement a bluetooth remote controlled robotcar.
 ![](https://github.com/rkuo2000/MCU-course/blob/main/images/FutureHome_kitchen_robot.png?raw=true)
 ### 成果展示
 **Right：**<br>
-![](https://github.com/Ian1121023/MCU-project/blob/main/images/right.gif?raw=true)
+![](https://github.com/Ian1121023/MCU-project/blob/main/images/right.gif?raw=true)<br>
 **Left：**<br>
-![](https://github.com/Ian1121023/MCU-project/blob/main/images/left.gif?raw=true)
+![](https://github.com/Ian1121023/MCU-project/blob/main/images/left.gif?raw=true)<br>
 **Forward & Stop：**<br>
-![](https://github.com/Ian1121023/MCU-project/blob/main/images/forward_stop.gif?raw=true)
+![](https://github.com/Ian1121023/MCU-project/blob/main/images/forward_stop.gif?raw=true)<br>
 **Back：**<br>
-![](https://github.com/Ian1121023/MCU-project/blob/main/images/back.gif?raw=true)
+![](https://github.com/Ian1121023/MCU-project/blob/main/images/back.gif?raw=true)<br>
 **自己所做的證明：**<br>
-![](https://github.com/Ian1121023/MCU-project/blob/main/images/prove.gif?raw=true)
+![](https://github.com/Ian1121023/MCU-project/blob/main/images/prove.gif?raw=true)<br>
 <br>
 <br>
 
