@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 藍牙遙控機器人實作
-author: [Richard Kuo]
+author: [Yian Chang]
 category: [Lecture]
 tags: [jekyll, ai]
 ---
@@ -19,13 +19,13 @@ This project is to implement a bluetooth remote controlled robotcar.
 
 ### 設計考量與相關技術
 **系統設計考量：**<br>
-1. 操作方式:藍牙遙控手機App
+1. 操作方式:WebUI
 2. 移動方式:兩輪 
 3. 供電方式:鋰電池 3.7V x2
-4. 聯網方式:藍牙
+4. 聯網方式:WiFi
 
 **所需相關技術：**
-1. MIT App Inventor 2 手機程式設計 
+1. WiFi 
 2. Arduino程式設計
 
 **所需相關套件:**
@@ -33,7 +33,17 @@ This project is to implement a bluetooth remote controlled robotcar.
 
 ### 系統方塊圖
 ![](https://github.com/rkuo2000/MCU-course/blob/main/images/FutureHome_kitchen_robot.png?raw=true)
-
+### 成果展示
+**Right：**<br>
+![](https://github.com/Ian1121023/MCU-project/blob/main/images/right.gif?raw=true)
+**Left：**<br>
+![](https://github.com/Ian1121023/MCU-project/blob/main/images/left.gif?raw=true)
+**Forward & Stop：**<br>
+![](https://github.com/Ian1121023/MCU-project/blob/main/images/forward_stop.gif?raw=true)
+**Back：**<br>
+![](https://github.com/Ian1121023/MCU-project/blob/main/images/back.gif?raw=true)
+**自己所做的證明：**<br>
+![](https://github.com/Ian1121023/MCU-project/blob/main/images/prove.gif?raw=true)
 <br>
 <br>
 
