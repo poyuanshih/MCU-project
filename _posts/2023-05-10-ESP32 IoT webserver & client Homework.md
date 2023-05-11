@@ -17,8 +17,8 @@ tags: [jekyll, ai]
 #include <WiFi.h> 
 #include <WebServer.h>
 
-const char* ssid     = "Test";
-const char* password = "tonyikci";
+const char* ssid     = "Allan";
+const char* password = "00081010";
 
 WebServer server(80);
 
@@ -150,8 +150,8 @@ void loop() {
 
 Adafruit_HTU21DF htu = Adafruit_HTU21DF();
 
-const char* ssid     = "Test";
-const char* password = "tonyikci";
+const char* ssid     = "Allan";
+const char* password = "00081010";
 String      webserverIP = "http://192.168.109.244"; // Your Webserver IP address
 
 void setup() {
