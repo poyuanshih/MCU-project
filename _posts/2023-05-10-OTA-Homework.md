@@ -8,7 +8,7 @@ tags: [jekyll, ai]
 ### OTA初始操作
 ## 程式
 
-ˋˋˋ
+```
 /*
   Rui Santos
   Complete project details
@@ -59,7 +59,7 @@ void setup(void) {
 void loop(void) {
 
 }
-ˋˋˋ
+```
 
 ## 網頁展示
 ![](https://s4.aconvert.com/convert/p3r68-cdx67/aeucv-v9wbb.png)
