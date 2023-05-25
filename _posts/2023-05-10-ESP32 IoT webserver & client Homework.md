@@ -8,6 +8,8 @@ tags: [jekyll, ai]
 ### IoT webserver & client初始操作
 ## 將作為接受器的esp32寫入以下程式
 ## esp32接受程式
+## 系統方塊圖
+![](https://github.com/poyuanshih/MCU-project/blob/main/images/result4.png?raw=true)
 
 ```
 //
