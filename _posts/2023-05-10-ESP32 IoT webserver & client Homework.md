@@ -227,12 +227,12 @@ void loop() {
 }
 ```
 ## 將發射器連接HTU21D
-![](https://github.com/poyuanshih/MCU-project/blob/main/images/result3.png)
+![](https://github.com/poyuanshih/MCU-project/blob/main/images/result3.png?raw=true)
 ## 成果展示
 ## 網頁：
 ## 初始狀態
-![](https://github.com/poyuanshih/MCU-project/blob/main/images/result.png)
+![](https://github.com/poyuanshih/MCU-project/blob/main/images/result.png?raw=true)
 ## 訊息輸入後狀態
-![](https://github.com/poyuanshih/MCU-project/blob/main/images/result1.png)
+![](https://github.com/poyuanshih/MCU-project/blob/main/images/result1.png?raw=true)
 ## 序列埠狀態對比
-![](https://github.com/poyuanshih/MCU-project/blob/main/images/result2.png)
+![](https://github.com/poyuanshih/MCU-project/blob/main/images/result2.png?raw=true)
