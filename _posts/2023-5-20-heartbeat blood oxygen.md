@@ -6,6 +6,8 @@ category: [Lecture]
 tags: [IMU]
 ---
 ## 心跳血氧感測器
+### 系統方塊圖
+![](https://github.com/poyuanshih/MCU-project/blob/main/images/img4.png?raw=true)
 ### Arduino程式
 
 ```
