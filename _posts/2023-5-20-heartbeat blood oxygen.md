@@ -204,4 +204,4 @@ void loop() {
 
 **將以上程式燒入esp32**
 ## 成果展示
-![](https://github.com/poyuanshih/MCU-project/blob/main/images/IMG_3098.gif?raw=true)<br>
+![](https://github.com/poyuanshih/MCU-project/blob/main/images/img8.png?raw=true)<br>
