@@ -6,6 +6,8 @@ category: [Lecture]
 tags: [jekyll, ai]
 ---
 ### OTA初始操作
+### 系統方塊圖
+![](https://github.com/poyuanshih/MCU-project/blob/main/images/img.png?raw=true)
 ## 程式
 
 ```
