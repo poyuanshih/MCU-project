@@ -176,8 +176,7 @@ void loop() {
 ![](https://github.com/Ian1121023/MCU-project/blob/main/images/forward_stop.gif?raw=true)<br>
 **Back：**<br>
 ![](https://github.com/Ian1121023/MCU-project/blob/main/images/back.gif?raw=true)<br>
-**自己所做的證明：**<br>
-![](https://github.com/Ian1121023/MCU-project/blob/main/images/prove.gif?raw=true)<br>
+
 
 
 
